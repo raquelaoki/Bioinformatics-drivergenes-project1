@@ -1,7 +1,7 @@
 # Project Spring 2018 
 
 Title: Driver Gene Identification for Prostate Cancer Using an Integrative Probabilistic Graphical Model  
-Authors: Raquel Aoki and Oliver Snow 
+Authors: Raquel Aoki and Oliver Snow   
 Type: Course Project  
 
 Abstract:   
